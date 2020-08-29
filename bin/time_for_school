@@ -34,5 +34,5 @@ jim.learn(some_knowledge)
 
 
 puts "Steve just learned this important knowledge: '#{steve.knowledge.first}' from Avi"
-puts "Jim knowledge: #{jim.knowlege}"
-puts "Steve knowledge: #{steve.knowlege}"
+puts "Jim knowledge: #{jim.knowledge}"
+puts "Steve knowledge: #{steve.knowledge}"
